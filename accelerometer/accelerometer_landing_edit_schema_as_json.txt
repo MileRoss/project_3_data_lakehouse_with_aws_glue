@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "user",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "timestamp",
+    "Type": "bigint",
+    "Comment": ""
+  },
+  {
+    "Name": "x",
+    "Type": "float",
+    "Comment": ""
+  },
+  {
+    "Name": "y",
+    "Type": "float",
+    "Comment": ""
+  },
+  {
+    "Name": "z",
+    "Type": "float",
+    "Comment": ""
+  }
+]

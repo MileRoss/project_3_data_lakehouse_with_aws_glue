@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "sensorReadingTime",
+    "Type": "bigint",
+    "Comment": ""
+  },
+  {
+    "Name": "serialNumber",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "distanceFromObject",
+    "Type": "int",
+    "Comment": ""
+  }
+]
